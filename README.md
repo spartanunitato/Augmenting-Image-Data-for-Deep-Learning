@@ -1,4 +1,4 @@
-# CY2001---Data-Augmentation
+# CY2001-Augmenting-Image-Data-for-Deep-Learning
 
 This research project aims to evaluate the impact of GAN data augmentation on
 the classification performance of CNNs on a CXR dataset. 
