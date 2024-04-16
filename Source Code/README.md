@@ -9,3 +9,6 @@ This is a brief description of what each notebook does.
 | GAN Training        | Trains StyleGAN2 on the original dataset, and generates images for each class.                   |
 | IQA                 | Conducts Image Quality Analysis (IQA) on the original and generated images, and compares results.|
 | Separate Classes    | Separates the original dataset into the different disease classes, and creates a folder for each class. |
+
+
+[Trained StyleGAN Models](https://entuedu-my.sharepoint.com/:f:/g/personal/mlim088_e_ntu_edu_sg/EpTot_aeZLxFmswdM_bAsrgBkqo3VxtLrcv8e4PC-YNl7Q?e=EY5DqR)
