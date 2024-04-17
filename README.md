@@ -14,5 +14,5 @@ The primary focus of this research is to assess the impact of GAN-based data aug
 
 ## Objectives
 
-- To determine the effective ratios of synthetic to real images that contribute positively to CNN performance.
-- To understand the quality impact of synthetic images on model training and generalisation capabilities.
+1. To determine the effective ratios of synthetic to real images that contribute positively to CNN performance.
+2. To understand the quality impact of synthetic images on model training and generalisation capabilities.
